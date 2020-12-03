@@ -9,9 +9,13 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
+<<<<<<< HEAD
     title: `Bhashkarjya Nath`,
     description: `A portfolio Site of the author`,
     siteTitleAlt: `Bhashkarjya Nath`,
+=======
+    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+>>>>>>> 2101aa8b037a601313e503890646710b98a6735c
   },
   plugins: [
     {
